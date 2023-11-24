@@ -810,5 +810,5 @@ By integrating these strategies with the model's predictive capabilities to segm
 
 ## **Deployment**
 
-Import final model to pickle
+Import final model to pickle and this link to access my local repo (https://github.com/winkeypradana/Insurance-ML)
 
